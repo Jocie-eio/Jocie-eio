@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jocie-eio
+- 👀 I’m interested in how to work with coding 
+- 🌱 I’m currently learning an introduction to computer programming
